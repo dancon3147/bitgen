@@ -1,6 +1,6 @@
 # BitGen
 
-> A next-generation digital gold blockchain — decentralized, verifiable, and built for long-term value.
+> A next-generation digital gold blockchain — decentralized, verifiable, and built for long-term value and a new generation of wealth.
 
 ![MIT License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Rust](https://img.shields.io/badge/language-Rust-orange)
